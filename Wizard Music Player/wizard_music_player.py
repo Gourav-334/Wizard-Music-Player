@@ -378,8 +378,7 @@ while running:
                     play(music10)
                 elif m11 == True:
                     play(music11)
-                else:
-                    None
+                
                 print(m1)
                 print(run)
                 print('Return Button, Released')
